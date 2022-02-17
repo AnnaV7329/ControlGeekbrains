@@ -22,7 +22,7 @@ int GenerateNewArray (string [] array, string [] newArray)
     }
     return NewArrayCount;
 } 
-string[] stringArray = new string[] { "hello", "geekbrains", "world", ":)", "world" };
+string[] stringArray = new string[] { "hello", "geekbrains", "world", ":)", "git" };
 
 string [] resultArray = new string [100];
 int countResult = GenerateNewArray (stringArray,resultArray);
