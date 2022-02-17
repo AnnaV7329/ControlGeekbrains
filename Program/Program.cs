@@ -2,20 +2,20 @@
 
 {
     Console.Write("[");
-    for (int n = 0; n < length - 1; n++)
-        Console.Write($"'{array[n]}', ");
+    for (int i = 0; i < length - 1; i++)
+        Console.Write($"'{array[i]}', ");
     Console.WriteLine($"'{array[length - 1]}']");
 }
 int GenerateNewArray (string [] array, string [] newArray)
 
 {
     int NewArrayCount = 0;               
-    for (int n=0;n<array.Length;n++)
+    for (int i=0;i<array.Length;i++)
     
     {
-        if (array[n].Length <=3)
+        if (array[i].Length <=3)
         {
-            newArray[NewArrayCount] = array[n];
+            newArray[NewArrayCount] = array[i];
             NewArrayCount++;
         }
 
@@ -25,10 +25,8 @@ int GenerateNewArray (string [] array, string [] newArray)
 string[] stringArray = new string[] { "hello", "geekbrains", "world", ":)", "git" };
 string [] resultArray = new string [100];
 int countResult = GenerateNewArray (stringArray,resultArray);
-
 Console.WriteLine ("Первоначальный массив:");
 PrintArray (stringArray,stringArray.Length);
-
 Console.WriteLine ("Новый массив:");
 PrintArray (resultArray,countResult);
 

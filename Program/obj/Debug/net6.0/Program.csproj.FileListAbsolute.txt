@@ -1,0 +1,15 @@
+/Users/annavilskaa/Desktop/ControlWork/Program/bin/Debug/net6.0/Program
+/Users/annavilskaa/Desktop/ControlWork/Program/bin/Debug/net6.0/Program.deps.json
+/Users/annavilskaa/Desktop/ControlWork/Program/bin/Debug/net6.0/Program.runtimeconfig.json
+/Users/annavilskaa/Desktop/ControlWork/Program/bin/Debug/net6.0/Program.dll
+/Users/annavilskaa/Desktop/ControlWork/Program/bin/Debug/net6.0/ref/Program.dll
+/Users/annavilskaa/Desktop/ControlWork/Program/bin/Debug/net6.0/Program.pdb
+/Users/annavilskaa/Desktop/ControlWork/Program/obj/Debug/net6.0/Program.csproj.AssemblyReference.cache
+/Users/annavilskaa/Desktop/ControlWork/Program/obj/Debug/net6.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annavilskaa/Desktop/ControlWork/Program/obj/Debug/net6.0/Program.AssemblyInfoInputs.cache
+/Users/annavilskaa/Desktop/ControlWork/Program/obj/Debug/net6.0/Program.AssemblyInfo.cs
+/Users/annavilskaa/Desktop/ControlWork/Program/obj/Debug/net6.0/Program.csproj.CoreCompileInputs.cache
+/Users/annavilskaa/Desktop/ControlWork/Program/obj/Debug/net6.0/Program.dll
+/Users/annavilskaa/Desktop/ControlWork/Program/obj/Debug/net6.0/ref/Program.dll
+/Users/annavilskaa/Desktop/ControlWork/Program/obj/Debug/net6.0/Program.pdb
+/Users/annavilskaa/Desktop/ControlWork/Program/obj/Debug/net6.0/Program.genruntimeconfig.cache
